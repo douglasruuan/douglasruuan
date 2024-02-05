@@ -1,12 +1,12 @@
 # 👋 Olá, seja bem-vindo.
 
-* Me chamo **Douglas Ruan**, tenho 27 anos, morador da região Sul do país, mais especificamente na região metropolitana de Porto Alegre.<br>
+* Me chamo **Douglas Ruan**, tenho 27 anos, morador da região Sul do país, mais especificamente em Cachoeirinha na região metropolitana de Porto Alegre.<br>
 * Formado no curso Técnico de Informática **FAQI Escolas e Faculdades**.<br> 
 * Estudante no primeiro semestre de Análise e Desenvolvimento de Sistemas em **Cesuca Centro Universitário.**<br>
 ---
 ## 📚 Estudos.
 
-Atualmente estou focado em fazer cursos profissionalizantes na area para entender mais o mundo da programação e do **Front-End** e o **Back-End.**<br>
+Atualmente, estou concentrado em realizar cursos profissionalizantes na área, buscando aprofundar meu entendimento no universo da programação, tanto no âmbito do Front-End quanto do Back-End.<br>
 Recentemente tive a conclusão da primeira etapa do Curso Gratuito da Plataforma **Discovery** da [Rocketseat](https://www.rocketseat.com.br/).
 
 1. Primeiro Certificado da plataforma. [Curso Discovery Certficado](https://ibb.co/cyKgps1).
